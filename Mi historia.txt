@@ -4,3 +4,4 @@ Me gusta la comida de mar y el chocolate.
 
 Mañana nos enfocaremos en su vida laboral
 
+Prueba de git reset head
